@@ -17,7 +17,7 @@
       <section id="welcome-section">
         <h1>Welcome to Art's Portfolio Webpage!</h1>
       </section>
-      <section id="Me">Hi, My name is Art Berger! This is everything <a class="nav-link" href="#profile-link"> me!</a>
+      <section id="Me">Hi, My name is Art Berger ! This is everything <a class="nav-link" href="#profile-link"> me!</a>
         <p class="p1">Fun Facts:</p>
         <li class="facts">I love <img src="https://icon-library.com/images/star-wars-logo-icon/star-wars-logo-icon-8.jpg">.</li>
         <li class="facts">I also like anything space or si-fi related.</li>
