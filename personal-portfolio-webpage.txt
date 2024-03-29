@@ -21,8 +21,8 @@
         <p class="p1">Fun Facts:</p>
         <li class="facts">I love <img src="https://icon-library.com/images/star-wars-logo-icon/star-wars-logo-icon-8.jpg">.</li>
         <li class="facts">I also like anything space or si-fi related.</li>
-        <li class="facts">Computers have always intrigued me!!!</li>
-        <li class="facts" id="last-fact">I like learning and the oppertunities are endless.</li>
+        <li class="facts">Computers have always intrigued me!!! Programming just feels like i should be here.</li>
+        <li class="facts" id="last-fact">I love learning and gaining new knowledge.</li>
       </section>
       <section id="projects">
         <p class="p2">Projects:</p>
