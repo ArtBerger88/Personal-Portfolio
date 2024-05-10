@@ -1,0 +1,70 @@
+#navbar {
+    width:100%;
+    background-color:rgb(8, 214, 218);
+    position: fixed;
+    top: 0; 
+    border: 1px solid rgb(8, 214, 218);
+  }
+  
+  #welcome-section {
+    height: vp;
+  }
+  
+  @media (max-width: 100px) {
+    body {
+        background-color: lightblue;
+    }
+}
+  
+  section {
+    border: 2px solid rgb(8, 214, 218);
+  }
+  
+  * {
+    background-color: #EEEEEE ;
+  }
+  
+  img{
+    max-width: 30px;
+    max-height: 30px;
+  }
+  
+  .project, .profile {
+    padding: 10px;
+  }
+  
+  .facts {
+    padding: 5px;
+  }
+  
+  #last-fact {
+    padding-bottom: 30px;
+  }
+  
+  #me {
+    padding-top: 10px;
+  }
+  
+  #camp {
+     font-size: 20px;
+     border-bottom: 2px solid blue;
+   }
+  
+  h1, .p1, .p2, .p3, .p4{
+     font-size: 25px;
+     color: blue;
+     padding-top: 10px;
+   }
+  
+   .last-cert {
+     padding-bottom: 30px;
+   }
+  
+   .footer {
+     padding-top: 4px;
+     color: blue;
+   }
+  
+   a:hover {
+     color: white;
+   }
